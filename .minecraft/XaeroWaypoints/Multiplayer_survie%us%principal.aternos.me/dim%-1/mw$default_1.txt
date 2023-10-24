@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Portail:P:13:67:26:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:interieur bastion:I:54:39:-131:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:bastion:B:49:78:-55:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Biome rouge:B:-87:76:-18:11:false:0:gui.xaero_default:false:0:0:false

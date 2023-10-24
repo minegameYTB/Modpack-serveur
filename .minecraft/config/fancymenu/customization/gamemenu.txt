@@ -1,0 +1,38 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_433
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  orientation = top-centered
+  x = -102
+  action = movebutton
+  y = 222
+}
+
+customization {
+  identifier = %id=44%
+  orientation = mid-left
+  x = 238
+  action = movebutton
+  y = 7
+}
+
+customization {
+  identifier = %id=44%
+  width = 204
+  action = resizebutton
+  height = 20
+}
+

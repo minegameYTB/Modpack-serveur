@@ -1,0 +1,5 @@
+confirmedMultiworld:mw$default
+autoMWBinding:mw$default:mw$-1136054649
+autoMWBinding:mw$-1136054649:mw$default
+MWName:mw$default:Map 1
+caveModeType:1

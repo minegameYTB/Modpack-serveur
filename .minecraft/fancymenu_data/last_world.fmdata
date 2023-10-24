@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = true
+  world = survie_principal.aternos.me:41590
+}
+

@@ -1,0 +1,134 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = Maisons
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-left
+  x = 441
+  action = movebutton
+  y = 49
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = top-left
+  x = 242
+  action = movebutton
+  y = 241
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 342
+  action = movebutton
+  y = 49
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-left
+  x = 221
+  action = movebutton
+  y = 49
+}
+
+customization {
+  identifier = %id=44%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 0
+  advanced_posx = 239
+  advanced_posy = 215
+}
+
+customization {
+  identifier = %id=44%
+  width = 202
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = e78a7f2e-f8ec-4c67-9281-098ea83d23ff1698119326354
+  y = 372
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 443
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = faebb3ac-b9dc-4e79-8527-ca7e6ee3193b1698119326402
+  y = 196
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 203
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = abeb7420-8aee-40da-a8e4-6450a655437a1698119326402
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 6ac85fc5-1760-498f-ba63-a4e96bb1e1c81698119326402
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = config/fancymenu/local_text/main_menu/version.txt
+  text_border = 2
+  case_mode = normal
+  source_mode = local
+  line_spacing = 1
+  x = -107
+  width = 215
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 6866fd19-4492-440e-9799-29773c5ab5f21698157257430
+  y = -33
+  alignment = centered
+  height = 32
+}
+
