@@ -1,2 +1,2 @@
 # Modpack serveur
- Ce modpack à été construit autour du projet "Fabulously Optimized"
+ Ce modpack a été construit autour du projet "Fabulously Optimized"
