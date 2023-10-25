@@ -1,4 +1,4 @@
-mode = "fastest"
+mode = "fancy"
 
 [light_sources]
 	water_sensitive_check = false
@@ -6,7 +6,7 @@ mode = "fastest"
 	entities = true
 	self = true
 	tnt = "simple"
-	creeper = "simple"
+	creeper = "fancy"
 
 	[light_sources.settings]
 
