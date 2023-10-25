@@ -1,6 +1,7 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:portail:P:37:66:677:2:false:0:gui.xaero_default:false:0:0:false
 waypoint:stuff:S:15:12:388:11:false:0:gui.xaero_default:false:0:0:false
 waypoint:Spawner:S:44:11:446:12:false:0:gui.xaero_default:false:0:0:false
 waypoint:Maisons:M:129:65:286:1:false:0:gui.xaero_default:false:0:0:false

@@ -3,7 +3,7 @@
     "animation": true,
     "water": false,
     "lava": false,
-    "fire": false,
+    "fire": true,
     "portal": true,
     "block_animations": true,
     "sculk_sensor": true

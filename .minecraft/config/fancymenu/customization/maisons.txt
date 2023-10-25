@@ -3,7 +3,7 @@ type = menu
 customization-meta {
   identifier = net.minecraft.class_442
   randomgroup = 1
-  renderorder = foreground
+  renderorder = background
   randommode = false
   randomonlyfirsttime = false
 }
@@ -14,6 +14,17 @@ customization {
 }
 
 customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 768
+  action = autoscale
+  basewidth = 1360
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -21,43 +32,41 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = mid-left
-  x = 441
+  x = 442
   action = movebutton
-  y = 49
+  y = 46
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = top-left
-  x = 242
+  x = 240
   action = movebutton
-  y = 241
+  y = 238
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-left
-  x = 342
+  x = 343
   action = movebutton
-  y = 49
+  y = 46
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = mid-left
-  x = 221
+  x = 218
   action = movebutton
-  y = 49
+  y = 46
 }
 
 customization {
   identifier = %id=44%
   orientation = top-left
-  x = 0
+  x = 239
   action = movebutton
-  y = 0
-  advanced_posx = 239
-  advanced_posy = 215
+  y = 215
 }
 
 customization {
@@ -81,7 +90,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 443
+  x = 471
   width = 13
   action = deep_customization_element:title_screen_realms_notification
   actionid = faebb3ac-b9dc-4e79-8527-ca7e6ee3193b1698119326402
@@ -92,7 +101,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 203
+  x = 231
   width = 274
   action = deep_customization_element:title_screen_logo
   actionid = abeb7420-8aee-40da-a8e4-6450a655437a1698119326402
@@ -124,7 +133,7 @@ customization {
   source_mode = local
   line_spacing = 1
   x = -107
-  width = 215
+  width = 211
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 6866fd19-4492-440e-9799-29773c5ab5f21698157257430
   y = -33
