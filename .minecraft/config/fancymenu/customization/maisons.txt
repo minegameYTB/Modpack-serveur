@@ -80,7 +80,7 @@ customization {
   orientation = top-left
   hidden = false
   x = 2
-  width = 165
+  width = 207
   action = deep_customization_element:title_screen_branding
   actionid = e78a7f2e-f8ec-4c67-9281-098ea83d23ff1698119326354
   y = 372
@@ -90,7 +90,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 471
+  x = 443
   width = 13
   action = deep_customization_element:title_screen_realms_notification
   actionid = faebb3ac-b9dc-4e79-8527-ca7e6ee3193b1698119326402
@@ -101,7 +101,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 231
+  x = 203
   width = 274
   action = deep_customization_element:title_screen_logo
   actionid = abeb7420-8aee-40da-a8e4-6450a655437a1698119326402
@@ -127,7 +127,7 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = config/fancymenu/local_text/main_menu/version.txt
+  source = config/fancymenu/local_text/main_menu/locales/fr_FR/version.txt
   text_border = 2
   case_mode = normal
   source_mode = local
@@ -136,8 +136,40 @@ customization {
   width = 211
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 6866fd19-4492-440e-9799-29773c5ab5f21698157257430
-  y = -33
+  y = -34
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:0407f9b2-78b4-4aec-958a-8485c45c2a791698200990831] = fr_fr
   alignment = centered
   height = 32
+}
+
+customization {
+  path = 
+  orientation = top-left
+  x = 0
+  width = 0
+  action = addtexture
+  actionid = 89845817-d2cd-48b9-8288-66275a469eb11698200666209
+  y = 10
+  height = 100
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = true
+  shadow = true
+  [loading_requirement:fancymenu_loading_requirement_is_language][requirement_mode:if][req_id:f75dd949-d6dd-45bc-a172-f90384468e7a1698201274457] = en_us
+  scale = 1.0
+  source = config/fancymenu/local_text/main_menu/locales/en_US/version.txt
+  text_border = 0
+  case_mode = normal
+  source_mode = local
+  line_spacing = 1
+  x = -122
+  width = 241
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 8714ecb1-af35-4a54-9ea5-9afe59a81d761698200675147
+  y = -32
+  alignment = centered
+  height = 33
 }
 
