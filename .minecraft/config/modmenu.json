@@ -3,7 +3,7 @@
   "count_libraries": false,
   "compact_list": false,
   "count_children": true,
-  "mods_button_style": "shrink",
+  "mods_button_style": "icon",
   "game_menu_button_style": "replace_bugs",
   "count_hidden_mods": false,
   "mod_count_location": "title_screen",
@@ -33,6 +33,6 @@
   "hidden_configs": [],
   "disable_update_checker": [],
   "update_checker": true,
-  "button_update_badge": false,
+  "button_update_badge": true,
   "quick_configure": true
 }

@@ -1,14 +1,13 @@
-.minecraft/XaeroWaypoints/Multiplayer_play.bettervanillabuilding.com
-.minecraft/XaeroWaypoints/Multiplayer_play.cubecraft.net
-.minecraft/XaeroWaypoints/New World
-.minecraft/XaeroWaypoints/Survie
-.minecraft/XaeroWaypoints/backup
+.git
+.gitattributes
+.minecraft/XaeroWaypoints
 .minecraft/XaeroWaypoints_BACKUP032021
-.minecraft/XaeroWorldMap/Multiplayer_play.bettervanillabuilding.com
-.minecraft/XaeroWorldMap/Multiplayer_play.cubecraft.net
-.minecraft/XaeroWorldMap/New World
-.minecraft/XaeroWorldMap/Survie
+.minecraft/XaeroWaypoints_BACKUP032021
+.minecraft/XaeroWorldMap
 .minecraft/coremods
 .minecraft/saves
+.minecraft/saves
+.minecraft/screenshots
 .minecraft/screenshots
 .minecraft/server-resource-packs
+README.md

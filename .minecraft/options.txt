@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:10
+renderDistance:5
 simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:2
@@ -122,6 +122,7 @@ key_key.hotbar.9:key.keyboard.9
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
+key_key.bcbui.areaselectioninput:key.keyboard.semicolon
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
