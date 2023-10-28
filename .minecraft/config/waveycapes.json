@@ -1,8 +1,8 @@
 {
   "configVersion": 2,
-  "windMode": "NONE",
-  "capeStyle": "SMOOTH",
-  "capeMovement": "BASIC_SIMULATION_3D",
+  "windMode": "WAVES",
+  "capeStyle": "BLOCKY",
+  "capeMovement": "DUNGEONS",
   "gravity": 25,
   "heightMultiplier": 6,
   "straveMultiplier": 2
