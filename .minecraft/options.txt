@@ -15,9 +15,9 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:false
-toggleCrouch:false
+toggleCrouch:true
 toggleSprint:false
 darkMojangStudiosBackground:true
 hideLightningFlashes:false
