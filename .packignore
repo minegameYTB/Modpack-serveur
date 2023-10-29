@@ -1,13 +1,16 @@
 .git
+.git
 .gitattributes
+.gitattributes
+.minecraft/XaeroWaypoints
 .minecraft/XaeroWaypoints
 .minecraft/XaeroWaypoints_BACKUP032021
 .minecraft/XaeroWaypoints_BACKUP032021
 .minecraft/XaeroWorldMap
+.minecraft/XaeroWorldMap
 .minecraft/coremods
 .minecraft/saves
 .minecraft/saves
-.minecraft/screenshots
 .minecraft/screenshots
 .minecraft/server-resource-packs
 README.md

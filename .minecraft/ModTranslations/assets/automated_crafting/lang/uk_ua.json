@@ -1,0 +1,22 @@
+{
+  "text.automated_crafting.name": "Automated Crafting",
+  "item.automated_crafting.auto_crafter": "Автоматизований верстак",
+  "block.automated_crafting.auto_crafter": "Автоматизований верстак",
+  "label.automated_crafting.template": "Шаблон",
+  "label.automated_crafting.input": "Вхід",
+  "text.autoconfig.automated_crafting.title": "Конфігурація автоматичного крафта",
+  "text.autoconfig.automated_crafting.option.simple_mode": "Увімкнути простий режим",
+  "text.autoconfig.automated_crafting.option.simple_mode.@Tooltip": "У простому режимі ви можете встановити шаблон рецепта",
+  "text.autoconfig.automated_crafting.option.quasi_connective": "Увімкнути квазіпідключення",
+  "text.autoconfig.automated_crafting.option.quasi_connective.@Tooltip": "Якщо блок над автокрафтером буде запитано, то автокрафтер теж запитано (але не оновлюється)",
+  "text.autoconfig.automated_crafting.option.redirect_redstone": "Увімкнути перенаправлення редстоуну",
+  "text.autoconfig.automated_crafting.option.redirect_redstone.@Tooltip": "Редстоун поруч із автокрафтером буде підключений до нього",
+  "text.autoconfig.automated_crafting.option.craft_continuously": "Створюйте безперервно під час живлення",
+  "text.autoconfig.automated_crafting.option.craft_continuously.@Tooltip": "Коли автокрафтер запитан і містить дійсний рецепт, цей рецепт буде відразу ж створений",
+  "text.autoconfig.automated_crafting.option.comparator_reads_output": "Компаратор видаватиме сигнал силою 15, якщо слот виходу не порожній",
+  "text.autoconfig.automated_crafting.option.comparator_reads_output.@Tooltip": "Компаратор видаватиме сигнал редстоуну силою 15, якщо слот виходу міститиме предмет",
+  "text.autoconfig.automated_crafting.option.fetch_translation_updates": "Завантажувати оновлення перекладу",
+  "text.autoconfig.automated_crafting.option.fetch_translation_updates.@Tooltip": "Завантажувати переклади з Crowdin під час запуску гри",
+  "text.automated_crafting.no_config_screen.title": "${name} Конфігурація недоступна",
+  "text.automated_crafting.no_config_screen.message": "§cВстановіть Cloth Config, щоб увімкнути конфігурацію."
+}

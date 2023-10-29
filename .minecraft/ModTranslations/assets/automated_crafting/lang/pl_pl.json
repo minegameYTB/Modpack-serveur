@@ -1,0 +1,22 @@
+{
+  "text.automated_crafting.name": "Automated Crafting",
+  "item.automated_crafting.auto_crafter": "Zautomatyzowany stół rzemieślniczy",
+  "block.automated_crafting.auto_crafter": "Zautomatyzowany stół rzemieślniczy",
+  "label.automated_crafting.template": "Wzór",
+  "label.automated_crafting.input": "Wejście",
+  "text.autoconfig.automated_crafting.title": "Konfiguracja automatycznego wytwarzania",
+  "text.autoconfig.automated_crafting.option.simple_mode": "Włącz tryb uproszczony",
+  "text.autoconfig.automated_crafting.option.simple_mode.@Tooltip": "W prostym trybie można ustawić szablon przepisu",
+  "text.autoconfig.automated_crafting.option.quasi_connective": "Włącz Quasi-Connectivity",
+  "text.autoconfig.automated_crafting.option.quasi_connective.@Tooltip": "Jeśli blok powyżej automatycznego stołu byłby zasilany, auto rzemieślnik jest zasilany (ale nie jest odświeżony)",
+  "text.autoconfig.automated_crafting.option.redirect_redstone": "Włącz przekierowywanie czerwonego kamienia",
+  "text.autoconfig.automated_crafting.option.redirect_redstone.@Tooltip": "Pył czerwonego kamienia obok automatycznego stołu wskaże na niego",
+  "text.autoconfig.automated_crafting.option.craft_continuously": "Craft Continuously While Powered",
+  "text.autoconfig.automated_crafting.option.craft_continuously.@Tooltip": "When an auto crafter is powered and contains a valid recipe, that recipe will be crafted immediately",
+  "text.autoconfig.automated_crafting.option.comparator_reads_output": "Comparator reads 15 if output isn't empty",
+  "text.autoconfig.automated_crafting.option.comparator_reads_output.@Tooltip": "Wyjście komparatora czytającego automatyczny stół z czymkolwiek w slocie wyjściowym wyniesie 15",
+  "text.autoconfig.automated_crafting.option.fetch_translation_updates": "Pobierz aktualizacje tłumaczeń",
+  "text.autoconfig.automated_crafting.option.fetch_translation_updates.@Tooltip": "Pobierz tłumaczenia z Crowdin po uruchomieniu gry",
+  "text.automated_crafting.no_config_screen.title": "Konfiguracja ${name} jest niedostępna",
+  "text.automated_crafting.no_config_screen.message": "§cZainstaluj Cloth Config, aby włączyć konfigurację."
+}
