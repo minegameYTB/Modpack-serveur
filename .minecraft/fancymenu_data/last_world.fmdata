@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = C:/Users/Elève/Documents/app/Jeux/Prism Launcher 7.2/instances/(Auto update) modpack Serveur (v.1.0.2-1.20.1-BETA1)/.minecraft/saves/auto craft mod
-}
-

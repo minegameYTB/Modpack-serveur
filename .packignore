@@ -9,8 +9,10 @@
 .minecraft/XaeroWorldMap
 .minecraft/XaeroWorldMap
 .minecraft/coremods
+.minecraft/fancymenu_data/last_world.fmdata
 .minecraft/saves
 .minecraft/saves
 .minecraft/screenshots
 .minecraft/server-resource-packs
+.minecraft/usercache.json
 README.md
