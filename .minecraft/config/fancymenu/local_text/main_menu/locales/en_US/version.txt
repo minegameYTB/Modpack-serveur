@@ -1,3 +1,0 @@
-Modpack originally created for the server
-can be used in solo mode
-(ver 1.0.3-1.20.1-BETA1)

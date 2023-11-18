@@ -1,18 +1,1 @@
-.git
-.git
-.gitattributes
-.gitattributes
-.minecraft/XaeroWaypoints
-.minecraft/XaeroWaypoints
-.minecraft/XaeroWaypoints_BACKUP032021
-.minecraft/XaeroWaypoints_BACKUP032021
-.minecraft/XaeroWorldMap
-.minecraft/XaeroWorldMap
-.minecraft/coremods
-.minecraft/fancymenu_data/last_world.fmdata
-.minecraft/saves
-.minecraft/saves
-.minecraft/screenshots
-.minecraft/server-resource-packs
-.minecraft/usercache.json
-README.md
+../../MultiMC/Fabulously Optimized x.y.z/.packignore
